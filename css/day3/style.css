@@ -1,0 +1,27 @@
+.frst{
+    background-color: firebrick;
+                        width: 100%;
+                        height: 300px;
+}
+table ,td,th{
+   
+    border: 1px;
+    border-collapse: collapse;
+}
+.header{
+    background-color: red;
+}
+header:hover {
+    background-color: coral;
+}
+
+.row :nth-child(odd){
+background-color: blue;
+}
+
+row:hover :nth-child(odd){
+    background-color: cyan;
+}
+table{
+    width: 100%;
+}

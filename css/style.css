@@ -1,0 +1,17 @@
+.frst{
+    background-color: firebrick;
+                        width: 100%;
+                        height: 300px;
+}
+h1 { font-size: large;
+    font: 1em sans-serif;
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+a{ background-color: indigo;
+
+}
+a:hover {
+    background-color: maroon;
+}

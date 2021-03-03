@@ -1,0 +1,13 @@
+Icons-
+icons can be added using  "i" tag
+and then <i class="bi bi-alarm    >   bi stands for bootstrap icons  .there are 1200 icons in bootstrap
+to add style like icon color   -- style= "color:
+icons can be added as imgages also
+<img src link the path
+awesome icons are also an icons library .which can be used .
+now 
+if we are using image .for increasing size of the image width and hight 
+@media - refer ad lern
+iframe tag src url kaboom
+maxwidth 100%
+hiehght auto for scalin resposnsive  imagess'

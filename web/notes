@@ -1,0 +1,80 @@
+19/02/2021
+table 
+th - table head
+tr - tablerow
+td -table data 
+table create cheyan table tag then  for headers th is used .then for adding data first we use the tag tr for rows and then we use td for adding data to the particular table
+we can create border by border tags
+Forms by html
+there are two styles in form  1.inline(ex span) style 2.block style(ex  )
+while creating from if we want to contain name and text field indif line use div tag
+input type is introduced
+place holder is hint or the thing ur gonna write in the field
+added one button  .why we use name attribute -when we submit data binding happens by using name attribute  and it show on url
+get req- header 
+post - body 
+
+
+for making a post request we use <form action ="" method ="post"
+form action - when we submit wer shoud the action should go . 
+for creating mandatory filed attribute  used is "required" required isan attribute  not a tag .
+for commending a line in  html    =  <!-- this is a comment-->  this line will not be executed
+
+
+threee more input type is used 1.file
+                                2.paswrd
+                                3.date 
+radio button -
+
+nex is select  and option tag - which is used to select among data 
+<select name ="state " id =""
+<option  value ="kl" >kerela</option>
+for input text type we can use min length and  max length after required 
+for numbers after required we can us esimply min and maxs
+
+how to add css ----- we can use 1- inline attributes<style>>) 2- internally tags) 3- link tag 
+
+2 internal tags  first we add a style then in that add a class then styles are added in this  .. then we can add styles to elements also  by {}
+refer p.html
+hover ppties
+
+
+day 3---
+external styling - new folder created and then style.css created in folder then attributes added style attributes  then linking is dne using  link tag 
+<link rel ="style sheet" href ="../css/style.css"
+
+
+table is created and hover is done external css style sheet is added easy peezzy cheezyy
+
+
+
+class wise css .for that .name is class so in css  styles are added .and in html class added same name 
+
+
+to add hover effect to seperate rows then nth-child(odd,even)
+
+
+
+PARAGRAPH ALIGNMENT-ELEMENT STYLE
+MARGIN -LEFT,RIGHT,TOP,BOTTOM
+CHUMMA MARGIN MATHRAM KODUTHAL ELLAM LIKE TOPBOTTOM LET RIGHT SAME AAAVUM  .EVEN NEGATIVE VALUES CAN BE ADDED'
+NEXT IS PADDING  - BORDER AND CONTENT IN BTW STYLE ADD AVUM PADDINGIL-IT DOWS NOT HAVE ANY IMPACT ON PAGE. 
+PADDING ELEMENT INSIDE SHIFTING NADAKULU
+
+POSITION STYLE - TOP LEFT RIGHT BOTTOM
+POSTION - STATIC,STICKY,ABSOLUTE,FIXED,RELATIVE
+
+
+
+
+
+D4- id vachit style cheyumbo # prefix aakuka where as classs .classname is used.
+bootstrap-getbootstrap.c0m
+download bootstrap 
+extract it into ur project
+bootsrtrap has a grid system .bootstrap work under grid sys.
+page can 12 divisions are there in bootstarp
+
+form creation - for a simple resposnive form theese two claser are enough
+form-control
+formss- label

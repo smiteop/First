@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img id="im1" width="150" height="150" src="../day8/pm.jpg" onclick="change()">
+    
+    
+    
+    <script>
+        
+        function change(){
+            
+       console.log(document.getElementById("im1").src)
+        if(document.getElementById("im1").src=="file:///C:/Users/Administrator/Desktop/Project/javascript/day8/pm.jpg" ){
+            document.getElementById("im1").src="file:///C:/Users/Administrator/Desktop/Project/javascript/day8/pm1.jpg"
+
+    }        else {
+     document.getElementById("im1").src="file:///C:/Users/Administrator/Desktop/Project/javascript/day8/pm.jpg"
+    } }
+    </script>
+</body>
+</html>
